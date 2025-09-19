@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learning Fish Tank (Prototype)
 
 ## 1) セットアップ
@@ -27,3 +28,6 @@ streamlit run app/main.py
 - 視聴ボタンで回数カウント & 忘却曲線による金魚の health/weight 更新
 - 視聴一覧（期限超過フィルタあり）
 - 水槽（円の濃さ=health、サイズ=weight）
+=======
+# learning-fish-tank
+>>>>>>> e03faefca1904db80c84fb186cb91ed7caa8a397
