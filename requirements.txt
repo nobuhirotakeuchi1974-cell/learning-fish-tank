@@ -1,0 +1,7 @@
+streamlit
+requests
+pydantic
+sqlmodel
+sqlalchemy
+pillow
+python-dotenv
